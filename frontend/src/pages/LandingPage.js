@@ -91,7 +91,7 @@ export default function LandingPage() {
 
       {/* Footer */}
       <footer style={{ background: '#1A1A2E', color: 'rgba(255,255,255,0.5)', textAlign: 'center', padding: '28px', fontSize: '0.85rem' }}>
-        <p>© 2024 MindScope by Shrayansh Agrawal, Priyanka Yadav & Taher Nawab</p>
+        <p>© 2024 MindScope by Shrayansh Agrawal & Priyanka Yadav</p>
         <p style={{ marginTop: '6px' }}>For educational purposes only — not a substitute for professional medical advice.</p>
       </footer>
     </div>
