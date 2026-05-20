@@ -15,13 +15,6 @@ const team = [
     color: '#EC4899',
     desc: 'Designed and built the user interface with a focus on accessibility and user experience. Ensures the platform is intuitive, welcoming, and easy to navigate for all users.',
   },
-  {
-    name: 'Taher Nawab',
-    role: 'Research & Content Specialist',
-    emoji: '📚',
-    color: '#059669',
-    desc: 'Curated evidence-based therapy activities, dietary recommendations, and crisis resources. Ensured all content is clinically grounded, accurate, and actionable.',
-  },
 ];
 
 const techStack = [
